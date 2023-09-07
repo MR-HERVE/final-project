@@ -10,6 +10,8 @@ body {
     margin-top: 100px;
     font-size: larger;
     font-style: italic;
+    font-weight: 400px;
+    font-size: larger;
 }
 
 #slide-frame1 {
@@ -25,11 +27,13 @@ body {
     margin-top: 100px;
     font-size: larger;
     font-style: italic;
+    font-weight: 400px;
+    font-size: larger;
 }
 
 #slide-images1 {
-    width: 800px;
-    height: 400px;
+    width: 3600px;
+    height: 500px;
     margin: 0 0 0 -2400px;
     position: relative;
     -webkit-animation-name: slide_animation1;
