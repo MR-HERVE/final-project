@@ -12,6 +12,17 @@ body {
     font-style: italic;
 }
 
+#slide-frame1 {
+    overflow: hidden;
+    width: 800px;
+    height: 400px;
+    margin-top: 400px;
+    border-width:800px;
+    border-radius: 15px;
+    position: relative;
+    margin-right: 540px;
+}
+
 .slider-frame {
     overflow: hidden;
     width: 800px;
