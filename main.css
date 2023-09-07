@@ -21,7 +21,6 @@ body {
     border-radius: 15px;
     position: relative;
     margin-right: 540px;
-    box-shadow: darkblue 10px 10px;
 }
 
 .slider-frame {
@@ -33,6 +32,8 @@ body {
     border-radius: 15px;
     position: relative;
     margin-left: 540px;
+    box-shadow: #020255 10px 10px;
+    object-fit: contain;
 }
 
 @-webkit-keyframes slide_animation {
