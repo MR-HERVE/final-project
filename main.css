@@ -33,7 +33,7 @@ body {
     position: relative;
     margin-left: 540px;
     box-shadow: #020255 10px 10px;
-    object-fit: contain;
+    object-fit: fill;
 }
 
 @-webkit-keyframes slide_animation {
