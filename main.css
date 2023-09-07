@@ -21,6 +21,7 @@ body {
     border-radius: 15px;
     position: relative;
     margin-right: 540px;
+    box-shadow: darkblue 10px;
 }
 
 .slider-frame {
