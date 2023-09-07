@@ -20,7 +20,7 @@ body {
     border-width:800px;
     border-radius: 15px;
     position: relative;
-    float: left;
+    margin-right: 500px;
 }
 
 #slide-images1 {
