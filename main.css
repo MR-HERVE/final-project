@@ -14,20 +14,22 @@ body {
 
 #slide-frame1 {
     overflow: hidden;
-    position: relative
+    position: relative;
+    width: 800px;
+    height: 400px;
 }
 
 #text1 {
     position: absolute;
-    margin-right: 850px;
+    margin-left: 850px;
     margin-top: 100px;
     font-size: larger;
     font-style: italic;
 }
 
 #slide-images1 {
-    width: 3600px;
-    height: 800px;
+    width: 800px;
+    height: 400px;
     margin: 0 0 0 -2400px;
     position: relative;
     -webkit-animation-name: slide_animation1;
