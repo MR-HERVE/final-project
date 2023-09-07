@@ -14,11 +14,13 @@ body {
     font-size: larger;
 }
 
-#slide-frame1 {
+#slider-frame1 {
     overflow: hidden;
     position: relative;
     width: 800px;
     height: 400px;
+    margin-left: 20px;
+    margin-top: 200px;
 }
 
 #text1 {
