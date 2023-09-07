@@ -14,14 +14,7 @@ body {
 
 #slide-frame1 {
     overflow: hidden;
-    width: 800px;
-    height: 400px;
-    margin-top: 400px;
-    border-width:500px;
-    border-radius: 15px;
-    position: relative;
-    margin-right: 500px;
-
+    position: relative
 }
 
 #text1 {
