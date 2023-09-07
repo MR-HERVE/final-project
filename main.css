@@ -17,10 +17,11 @@ body {
     width: 800px;
     height: 400px;
     margin-top: 400px;
-    border-width:800px;
+    border-width:500px;
     border-radius: 15px;
     position: relative;
     margin-right: 500px;
+
 }
 
 #slide-images1 {
@@ -35,39 +36,39 @@ body {
     -webkit-animation-play-state: running;
 }
 
-@-webkit-keyframes slide_animation {
+@-webkit-keyframes slide_animation1 {
     0% {
-        right: 0px;
+       left: 0px;
     }
     10% {
-        right: 0px;
+        left: 0px;
     }
     20% {
-        right: 1200px;
+        left: 1200px;
     }
     30% {
-        right: 1200px;
+        left: 1200px;
     }
     40% {
-        right: 2400px;
+        left: 2400px;
     }
     50% {
-        right: 2400px;
+        left: 2400px;
     }
     60% {
-        right: 1200px;
+        left: 1200px;
     }
     70% {
-        right: 1200px;
+        left: 1200px;
     }
     80% {
-        right: 0px;
+        left: 0px;
     }
     90% {
-        right: 0px;
+        left: 0px;
     }
     100% {
-        right: 0px;
+        left: 0px;
     }
 }
 
