@@ -14,6 +14,19 @@ body {
     font-size: larger;
 }
 
+#slider-frame {
+  overflow: hidden;
+  width: 800px;
+  height: 400px;
+  margin-top: 50px;
+  border-width: 800px;
+  border-radius: 15px;
+  position: relative;
+  margin-left: 540px;
+  box-shadow: #020255 10px 10px;
+}
+
+
 #slider-frame1 {
     overflow: hidden;
     position: relative;
