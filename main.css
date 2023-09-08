@@ -74,6 +74,13 @@ body {
   }
 }
 
+#img-container2 {
+  width: 1200px;
+  height: 800px;
+  position: relative;
+  float: left;
+}
+
 #slider-frame1 {
     overflow: hidden;
     position: relative;
